@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: A Woman Coder's Journey
 header-img: img/home-bg.png
 email: nat.alvz@gmail.com
 copyright_name: natalvz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I'm also a mom
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  natalvz
